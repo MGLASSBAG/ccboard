@@ -1,4 +1,3 @@
 [submodule "cboard"]
-	path = cboard
-	url = git@github.com:cboard-org/cboard.git
-	branch = master
+    path = cboard
+  	url = https://github.com/MGLASSBAG/cboard.git

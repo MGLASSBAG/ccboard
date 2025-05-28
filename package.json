@@ -9,6 +9,7 @@
   },
   "author": "Unicef",
   "license": "Apache-2.0",
+  "homepage": ".",
   "dependencies": {
     "cordova-browser": "^7.0.0",
     "cordova-plugin-fbsdk": "4.1.1",
